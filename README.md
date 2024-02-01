@@ -46,7 +46,8 @@
    ```
 2. Запустіть локальний сервер, якщо не має скачайте
 
-  ![image](https://github.com/DaniilZotin/Construct2-Dino/assets/85665335/44d1c256-978b-467d-bcbb-8dc1b5592bcf)
+
+  ![image](https://github.com/DaniilZotin/Construct-2-Dino/assets/85665335/44d1c256-978b-467d-bcbb-8dc1b5592bcf)
 
 перейдіть в папку з проектом
 
