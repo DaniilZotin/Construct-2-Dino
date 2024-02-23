@@ -42,24 +42,29 @@
 ### Instalation 
 1. Клонуйте репозиторій
    ```sh
-     https://github.com/DaniilZotin/Construct2-Dino.git
+     https://github.com/DaniilZotin/Construct-2-Dino.git
    ```
 2. Запустіть локальний сервер, якщо не має скачайте
 
-  ![image](https://github.com/DaniilZotin/Construct2-Dino/assets/85665335/44d1c256-978b-467d-bcbb-8dc1b5592bcf)
+![image](https://github.com/DaniilZotin/Construct-2-Dino/assets/85665335/b446b61f-1f10-425f-b4cb-67dfba7c28ae)
+
 
 перейдіть в папку з проектом
 
-![image](https://github.com/DaniilZotin/Construct2-Dino/assets/85665335/92d01c4b-5695-4b15-9aa7-234f7e08cd17)
+![image](https://github.com/DaniilZotin/Construct-2-Dino/assets/85665335/e8cad167-6bcc-47d7-a60c-a5c2997631f2)
+
 
 запустіть сервер
 
-![image](https://github.com/DaniilZotin/Construct2-Dino/assets/85665335/41b5f2d6-33c9-4b9a-b3e9-3dfcb8c49a30)
+![image](https://github.com/DaniilZotin/Construct-2-Dino/assets/85665335/a9cea033-69a6-454f-9ae7-4ba4d00aff91)
+
 
    
 3. Перейти по локальній адресі
 
-![image](https://github.com/DaniilZotin/Construct2-Dino/assets/85665335/4e40b8d7-3ddb-4027-b983-2f859372922e)
+![image](https://github.com/DaniilZotin/Construct-2-Dino/assets/85665335/bd13c33d-82a4-408d-8f89-a2bfd94b4171)
+
+
 
 4. Все готово, перевіряйте як працює гра
 
@@ -84,15 +89,14 @@
 1. Потрібно було правильно порівнювати дані які приходять з localStorage, тому був використаний каст до int
 після чого умова почала працювати.
 
-![image](https://github.com/DaniilZotin/Construct2-Dino/assets/85665335/b8f4e6f7-d34c-40b4-b5dd-ebf8bee984e9)
+![image](https://github.com/DaniilZotin/Construct-2-Dino/assets/85665335/4a9e486c-b549-4215-acab-1d73b0a50a82)
 
-3. Використав правильну конкатинацію
 
-![image](https://github.com/DaniilZotin/Construct2-Dino/assets/85665335/fc30d6a5-77f6-4fd1-ba72-4b84f0c67421)
+2. Використав правильну конкатинацію
 
-### При виході до головного меню з рівнів зникає "продовжити"
-1. Прибрав строки які відповідали за видалення тексту continue
-2. Видалив переміщення позиції тексту
+![image](https://github.com/DaniilZotin/Construct-2-Dino/assets/85665335/b15d6c02-7a27-441d-b167-4a600b5bbb01)
+
+
 
 ### При виході до головного меню з рівнів зникає "продовжити"
 1. Прибрав строки які відповідали за видалення тексту continue
@@ -113,7 +117,8 @@
 1. Додав логіку включення та виключення музики
 2. Зробив єдиний обробник змінної яка відповідає за звуки та музику
 
-![image](https://github.com/DaniilZotin/Construct2-Dino/assets/85665335/dc210e85-82e4-4ba3-9218-1dd10c9047e2)
+![image](https://github.com/DaniilZotin/Construct-2-Dino/assets/85665335/ba33f861-1de9-4d50-b4ee-58a5a3d14098)
+
 
 
 
